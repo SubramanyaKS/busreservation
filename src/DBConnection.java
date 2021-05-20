@@ -7,7 +7,7 @@ public class DBConnection
 		Connection con = null;
 		String url = "jdbc:oracle:thin:@localhost:1521:xe"; 
 		String user = "project"; 
-		String pass = "subbu";
+		String pass = "";
 
 		try{
 			Class.forName("oracle.jdbc.driver.OracleDriver");

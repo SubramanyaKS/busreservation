@@ -112,13 +112,13 @@ public class SearchPaymentDetails {
 				try {
 					DBConnection con=new DBConnection();
 					PreparedStatement pst;
-					String query ="select count(reserve_id), sum(total_price),avg(total_price),round(avg(total_price)) from BUSRESERVE where journey_date between ? and ?";
+					String query ="select sum(seat_reserve), sum(total_price),avg(total_price),round(avg(total_price)) from BUSRESERVE where journey_date between ? and ?";
 					pst = con.mkDataBase().prepareStatement(query);
 					pst.setString(1,jodate1);
 					pst.setString(2,jodate2);
 					ResultSet rs = pst.executeQuery();
 					while(rs.next()) {
-						textField.setText(rs.getString("Count(reserve_id)"));
+						textField.setText(rs.getString("sum(seat_reserve)"));
 						textField_1.setText(rs.getString("sum(total_price)"));
 						textField_2.setText(rs.getString("avg(total_price)"));
 						textField_3.setText(rs.getString("round(avg(total_price))"));
