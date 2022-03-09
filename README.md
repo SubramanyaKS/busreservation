@@ -16,3 +16,6 @@ This is the dbms mini project. Created a DBMS mini-project and desktop applicati
  * Database: Oracle 10g express edition.
 
 Demo link:https://youtu.be/Ozyugn-kCe4
+
+
+If you like this repository 🌟 repository
