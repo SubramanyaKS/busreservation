@@ -33,6 +33,6 @@ If you want to use the source code.
 * Modify the cloned repository as your requirement.
 
 
-**Note : it is desktop Application.**
+*Note : it is desktop Application.*
 ---
 If you like my work 🌟 repository
