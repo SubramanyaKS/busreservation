@@ -32,6 +32,13 @@ If you want to use the source code.
 * Star (🌟) the repository
 * Modify the cloned repository as your requirement.
 
+---
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+---
 
 *Note : it is desktop Application.*
 ---
