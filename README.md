@@ -24,6 +24,7 @@ This is the dbms mini project. Created a DBMS mini-project and desktop applicati
 * Eclipse or VS Code IDE (if you want to add feature)
 
 ---
+### Project Structure
 ```
 📦 
 ├─ .classpath
