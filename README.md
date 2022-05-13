@@ -316,7 +316,10 @@ This is the dbms mini project. Created a DBMS mini-project and desktop applicati
 if you want to use the jar file. Download the jar file.Make sure your system satisfied the requirement.
 
 If you want to use the source code.
-* First clone the repository
+* First clone the repository.
+```
+git clone 
+```
 * Star (🌟) the repository
 * Modify the cloned repository as your requirement.
 
