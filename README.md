@@ -38,13 +38,12 @@ git clone https://github.com/SubramanyaKS/busreservation.git
 * Modify the cloned repository as your requirement.
 
 ---
-## Contributing
+### Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
 ---
-
 *Note : it is desktop Application.*
 ---
 If you like my work 🌟 repository
